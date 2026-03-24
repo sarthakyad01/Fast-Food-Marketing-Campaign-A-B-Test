@@ -107,6 +107,15 @@ Since normality was violated, a **non-parametric alternative (Kruskal-Wallis Tes
 
 ---
 
+## 💡 Business Recommendations  
+
+- 📈 **Scale Campaign 2** for higher ROI  
+- 🔁 Re-evaluate or optimize Campaign 1 & 3  
+- 🧪 Implement continuous A/B testing framework  
+- 📊 Move from averages → **statistical decision-making**
+
+---
+
 ## 📊 Additional Insights  
 
 - Average sales: **~53.47K per store**  
@@ -121,5 +130,25 @@ Since normality was violated, a **non-parametric alternative (Kruskal-Wallis Tes
 - 🎯 Identifies which campaigns to **scale or eliminate**  
 - 💰 Optimizes **marketing spend allocation**  
 - 🔁 Establishes a **repeatable A/B testing framework**  
+
+---
+
+## 🧠 Skills Demonstrated  
+
+- A/B Testing & Experiment Design  
+- Statistical Testing (ANOVA & Kruskal-Wallis)  
+- Assumption Validation  
+- Post-hoc Analysis  
+- Data Visualization  
+- Business Insight Generation  
+
+---
+
+## 🔮 Future Improvements  
+
+- Tukey HSD for deeper comparisons  
+- Uplift modeling for causal inference  
+- Multi-variable analysis (Market Size × Promotion)  
+- Real-time experimentation dashboard  
 
 ---
